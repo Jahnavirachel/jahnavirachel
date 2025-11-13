@@ -3,7 +3,7 @@
 # 💻 Pujari Jahnavi Rachel
 🎓 MCA Student @ R.V.R & J.C College of Engineering, Guntur  
 💡 AI Trainer | Full Stack Developer | Data Science Enthusiast  
-📍 Hyderabad, India  
+📍 India  
 
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/jahnavi-rachel-p-00a65b208/) • [Email](mailto:jahnavirachel10@gmail.com) • [GitHub](https://github.com/jahnavirachel)
 
