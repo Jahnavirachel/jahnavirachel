@@ -69,7 +69,8 @@ Regression-based ML pipeline to forecast agricultural yields using soil, seed, a
 
 <p align="center">
   <img
-    src="https://gh-stats-gen.vercel.app/api?username=jahnavirachel&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Jahnavirachel&show_icons=true&theme=radical&hide_border=true"
+    alt="Jahnavi's GitHub statistics"
     height="160"
   />
 </p>
